@@ -7,10 +7,18 @@
     padding: 15px;
 }
 
+.row {
+    height: 100%;
+}
+
 section {
     margin-bottom: 20px;
 }
 
 .orange {
     background-color: orangered;
+}
+
+.tall {
+    height: 150px;
 }
